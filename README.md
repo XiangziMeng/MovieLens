@@ -1,4 +1,4 @@
-# MovieLens
+# MovieLens Project
 
 useage: start a docker bash environment using "sh start_docker.sh", then run "python main.py".
 after that, you will get two embedding files of users and movies
